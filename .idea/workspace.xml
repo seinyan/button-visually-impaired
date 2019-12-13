@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21b30497-ce8d-4717-850a-484ad0eefbfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/needsmoredojoconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OLD__index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/1.11.3.jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/less/btn.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/less/bvi.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/less/grid.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/less/mixins/grid-framework.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/less/mixins/grid.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/less/variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/responsivevoice.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/responsivevoice.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="21b30497-ce8d-4717-850a-484ad0eefbfb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576257982976</updated>
-      <workItem from="1576257984437" duration="1795000" />
+      <workItem from="1576257984437" duration="2049000" />
     </task>
     <servers />
   </component>
