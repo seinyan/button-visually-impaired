@@ -1,0 +1,24 @@
+{
+  "name": "button-visually-impaired",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp_init": "gulp scripts && gulp css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seinyan/button-visually-impaired.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seinyan/button-visually-impaired/issues"
+  },
+  "homepage": "https://github.com/seinyan/button-visually-impaired#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1"
+  }
+}
