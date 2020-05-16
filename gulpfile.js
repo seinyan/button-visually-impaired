@@ -3,7 +3,7 @@ var concat = require('gulp-concat');
 
 gulp.task('scripts', function() {
     return gulp.src([
-        './js/1.11.3.jquery.min.js',
+        // './js/1.11.3.jquery.min.js',
         './js/responsivevoice.js',
         './js/bvi-init-panel.js',
         './js/bvi.js',
